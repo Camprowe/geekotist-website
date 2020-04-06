@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://geekotist.com/?p=/platform/playstation-4</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+</url>
+
+<url>
+  <loc>https://geekotist.com/?p=/platform/xbox-one</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+</url>
+
+<url>
+  <loc>https://geekotist.com/?p=/platform/xbox</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+</url>
+
+<url>
+  <loc>https://geekotist.com/?p=/platform/pc</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+</url>
+
+<url>
+  <loc>https://geekotist.com/?p=/platform/gamecube</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+</url>
+
+<url>
+  <loc>https://geekotist.com/?p=/platform/xbox-360</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+</url>
+
+<url>
+  <loc>https://geekotist.com/?p=/platform/playstation-3</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+</url>
+
+<url>
+  <loc>https://geekotist.com/?p=/platform/playstation-2</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+</url>
+
+<url>
+  <loc>https://geekotist.com/?p=/platform/playstation</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+</url>
+
+<url>
+  <loc>https://geekotist.com/?p=/platform/nintendo-switch</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+</url>
+
+<url>
+  <loc>https://geekotist.com/?p=/games/platform/ios</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+</url>
+
+<url>
+  <loc>https://geekotist.com/?p=/platform/android</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+</url>
+</urlset>
